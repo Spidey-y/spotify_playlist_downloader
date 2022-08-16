@@ -1,6 +1,7 @@
 # spotify_playlist_downloader
 
 This is a small script i made to download playlists from spotfiy (the songs are downloaded from youtube not spotify, dont get too excited).
+I also made a script to download youtube playlists as mp3, the playlist needs to be public for the script to work, you can use the playlist url or a video inside it.
 
 ## Installation
 ### Register application
