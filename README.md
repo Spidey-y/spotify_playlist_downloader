@@ -1,6 +1,6 @@
 # spotify_playlist_downloader
 
-This is a small script i made to download playlists from spotfiy.
+This is a small script i made to download playlists from spotfiy (the songs are downloaded from youtube not spotify, dont get took excited).
 
 ## Installation
 ### Register application
