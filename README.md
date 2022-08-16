@@ -4,7 +4,7 @@ This is a small script i made to download playlists from spotfiy (the songs are 
 I also made a script to download youtube playlists as mp3, the playlist needs to be public for the script to work, you can use the playlist url or a video inside it.
 
 ## Installation
-### Register application
+### Register application (for spotify only)
 1. Go to:  	[Spotify dev dashboard](https://developer.spotify.com/dashboard/applications)
 2. Create new app
 3. Get the client_id and client_secret and put them in main.py (in vars)
